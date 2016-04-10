@@ -6,10 +6,10 @@ Video of it in action is here:
 https://www.youtube.com/watch?v=QHEHTlryBxw
 
 Components
-- Teensy 3.2 (Massively overkill, any reasonably quick 3.3V Arduino compatible would do)
+- Teensy 3.2 (Massively overkill, any reasonably quick Arduino compatible would do)
 - Microchip 23LC1024 128Kb Serial SRAM
-- SD card module from eBay (Only used as it was easy to solder)
-- Couple 10KOhm resistors
+- SD card module from eBay (Only used as it was easy to solder but also provides 5V conversion if needed)
+- Couple of 10KOhm resistors
 - Push Button
 
 Schematic in ASCII art at top of Arduino source.
